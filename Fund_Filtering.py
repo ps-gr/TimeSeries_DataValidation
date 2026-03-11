@@ -174,13 +174,13 @@ for fund_info in funds_with_data:
 
 # Save heteroscedasticity results
 hetero_df = pd.DataFrame(heteroscedasticity_results)
-hetero_df.to_csv(f'{output_dir}/step0_heteroscedasticity_check.csv', index=False)
+hetero_df.to_csv(f'{output_dir}/heteroscedasticity_check.csv', index=False)
 
 print(f"Heteroscedasticity checked: {len(heteroscedasticity_results)} funds")
 print(f"  - Homoscedastic (stable variance): {hetero_df['is_homoscedastic'].sum()}")
 print(f"  - Heteroscedastic (unstable variance): {(~hetero_df['is_homoscedastic']).sum()}")
 print(f"  - Box-Cox transformations applied: {hetero_df['transformation_applied'].sum()}\n")
-print(f"Saved: step0_heteroscedasticity_check.csv\n")
+print(f"Saved: heteroscedasticity_check.csv\n")
 
 
 # STEP 2: ADF Test
@@ -261,7 +261,7 @@ print(f"Funds with d ≤ 2: {len(funds_after_adf)}\n")
 # Save ADF results
 adf_df = pd.DataFrame(adf_results)
 adf_df.to_csv(f'{output_dir}/step1_adf_test_results.csv', index=False)
-print(f"Saved: step1_adf_test_results.csv\n")
+print(f"Saved: step2_adf_test_results.csv\n")
 
 
 # STEP 3: ARIMA MODELING
@@ -325,7 +325,7 @@ print(f"\nModels successfully fitted: {len(model_results)}\n")
 
 aic_df = pd.DataFrame(model_results)
 aic_df.to_csv(f'{output_dir}/step2_aic_ranking.csv', index=False)
-print(f"Saved: step2_aic_ranking.csv\n")
+print(f"Saved: step3_aic_ranking.csv\n")
 
 
 
@@ -456,7 +456,7 @@ else:
 print("SAVING RESULTS")
 
 diag_df.to_csv(f'{output_dir}/step3_diagnostic_results.csv', index=False)
-print(f"Saved: step3_diagnostic_results.csv")
+print(f"Saved: step4_diagnostic_results.csv")
 
 final.to_csv(f'{output_dir}/FINAL_TOP10_FUNDS.csv', index=False)
 print(f"Saved: FINAL_TOP10_FUNDS.csv")
