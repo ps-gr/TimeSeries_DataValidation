@@ -1,0 +1,451 @@
+fund_name,levene_pvalue,is_homoscedastic,box_cox_lambda,transformation_applied
+A.R.T. Absolute Return Target Fund F Equity Strategy (USD),0.7033801057888096,True,,False
+Absolute Focus Fund Limited Class A,0.2336815917590004,True,,False
+Absolute Focus Fund Limited Class B,0.3275444040617773,True,,False
+Absolute Return Multi-Strategy I LP,0.2303400482325532,True,,False
+ACPI Balanced UCITS Fund USD R,0.39363167910412256,True,,False
+Albatross Arbitrage Opportunity Fund CHF,0.05932498014754239,True,,False
+Albatross Arbitrage Opportunity Fund EUR,0.03863029376323071,False,0.78903751241735,True
+Albatross Arbitrage Opportunity Fund USD,0.4149798425137332,True,,False
+Albatross Worldwide Equity Fund CHF,0.7831889120839403,True,,False
+Albatross Worldwide Equity Fund EUR,0.5850064893396292,True,,False
+Albatross Worldwide Equity Fund USD,0.970379245312753,True,,False
+AllianzGI Global Allocation Fund Class A,0.01727247462928992,False,0.8056489784242533,True
+Alphanatics Fund (A - EUR),6.255866401043529e-05,False,0.8136162285718338,True
+Alphanatics Fund (B - CHF),0.0002750820802329416,False,0.8328896822172169,True
+Alphanatics Fund (D - JPY),9.281348966129616e-05,False,0.8274910895320814,True
+Alphanatics Fund (E - USD),0.00010828055471548062,False,0.8663209196897617,True
+Alternative Investment Partners Absolute Return Fund,0.08847032031930387,True,,False
+Alternative Investment Partners Absolute Return Fund STS,0.09987453587665472,True,,False
+"Alternative Investments Institutional, L.P.",0.5866033362039558,True,,False
+"Alternative Investments Institutional, Ltd.",0.6525948164790999,True,,False
+"Alternative Investments International, L.P.",0.991643866841672,True,,False
+Alternative Investments L.P.,0.602248039470181,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund (EUR) A,0.5325721369073593,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund (EUR) B,0.6224589352385126,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund (USD) A,0.39045643187538137,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund (USD) B,0.8084461482677517,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund - (CHF) A,0.6673538522435927,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund - (CHF) B,0.7671198952103905,True,,False
+AMC Alternative Fund -BCV Multi-Strategy Fund - (CHF) C,0.5218343084950235,True,,False
+"American Selection Holdings S.A., SICAV-FIAR",0.020483638715403645,False,0.794870320345541,True
+"Arden Alternative Advisers, SPC USD",0.23830213036483228,True,,False
+"Atrevida Multi-Strategy Master Fund, L..P.",0.2741061505947944,True,,False
+"Atrevida Multi-Strategy Offshore Fund, LP",0.31070524720455434,True,,False
+Aurum Fortress Fund Ltd.,0.19955172965516788,True,,False
+Aurum Investor Standard Dollar Restricted,0.029733463510070546,False,0.8084375525689212,True
+Aurum Investor Standard Euro Restricted,0.053179655616284995,True,,False
+Aurum Investor Standard Sterling Restricted,0.040511886148006306,False,0.8134695462823582,True
+Aurum Isis Standard Dollar Restricted,0.2838941574485152,True,,False
+Aurum Isis Standard Euro Restricted,0.1854072463593874,True,,False
+Aurum Isis Standard Sterling Restricted,0.20511461950689897,True,,False
+Aurum Isis Standard Swiss Franc Restricted,0.38536176859402493,True,,False
+"Aurum Managed Dollar Portfolio, Ltd.",0.08438600559359516,True,,False
+"Aurum Managed Euro Portfolio, Ltd.",0.10362242709220473,True,,False
+"Aurum Managed Sterling Portfolio, Ltd.",0.08029132393607928,True,,False
+Aurum Multi Strategy Standard Dollar Restricted,0.2245983078142542,True,,False
+Aurum Multi Strategy Standard Euro Restricted,0.278475001995319,True,,False
+Aurum Multi Strategy Standard Sterling Restricted,0.2656040974408866,True,,False
+Aurum Synchronicity Dollar Fund Ltd,0.014032203300830787,False,0.8376371776314367,True
+Aurum Synchronicity Euro Fund Ltd.,0.025182606470534715,False,0.8657405626122043,True
+"Bodleian Partners A, L.P.",0.13294466132476462,True,,False
+"Bodleian Partners B, L.P.",0.22471966915849195,True,,False
+Bostwick Compound L.P.,0.2498832725366756,True,,False
+BPI Strategies -Vasco Da Gama Class B (USD),0.004173194067009304,False,0.8271195639111018,True
+BPI Strategies -Vasco Da Gama Class C (EUR),0.011091223901416586,False,0.8376393232087744,True
+"Cross Shore Investors, Ltd.",0.9447420249740393,True,,False
+Cross Shore QP Partners L.P.,0.5535125800155494,True,,False
+Dorchester Capital Partners LP,0.3761054531690242,True,,False
+"Double Eagle Capital Ace Fund, L.P. Class A",0.15697393678039132,True,,False
+"Double Eagle Capital Ace Fund, L.P. Class B",0.16885310574734969,True,,False
+Edmond de Rothschild Prifund Alpha Concentrated Cl. A (EUR),0.016653404271495566,False,0.8271726424916669,True
+Edmond de Rothschild Prifund Alpha Concentrated Cl. A (USD),0.01443662252362812,False,0.8196679943878177,True
+Edmond de Rothschild Prifund Alpha Concentrated Cl. B (EUR),0.021237597226443656,False,0.8262710898570925,True
+Edmond de Rothschild Prifund Alpha Concentrated Cl. B (USD),0.013930133636594982,False,0.8157850427823625,True
+Edmond de Rothschild Prifund Alpha Concentrated Cl. C (EUR),0.021948625012626323,False,0.8265133472545794,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. A (CHF),0.00796308262206257,False,0.8745429346023544,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. A (EUR),0.010236601858120191,False,0.843155172975523,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. A (USD),0.006174225487606395,False,0.8517070032948455,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. B (CHF),0.008073659744446288,False,0.8668023470726787,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. B (EUR),0.009912927149771414,False,0.8360126375528659,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. B (USD),0.00625519825648284,False,0.8439852387031533,True
+Edmond de Rothschild Prifund Alpha Diversified Cl. C (CHF),0.007705260274239709,False,0.8754778142596962,True
+Edmond de Rothschild Prifund Alpha Property Securities A USD,0.5186952461426424,True,,False
+Edmond de Rothschild Prifund Alpha Uncorrelated (EUR) Cl. A,0.004967466917414948,False,0.7625862455453791,True
+Edmond de Rothschild Prifund Alpha Uncorrelated (EUR) Cl. B,0.00500626406279555,False,0.7579262730987533,True
+Edmond de Rothschild Prifund Alpha Uncorrelated (USD) Cl. A,0.003706169506640863,False,0.7840180264251004,True
+Edmond de Rothschild Prifund Alpha Uncorrelated (USD) Cl. B,0.005197726197168043,False,0.7828860572690735,True
+Edmond de Rothschild Prifund Alpha Volatility Cl. A (EUR),0.009508303250040873,False,0.8903368836637878,True
+Edmond de Rothschild Prifund Alpha Volatility Cl. A (USD),0.005992847330161301,False,0.8792610481672954,True
+Edmond de Rothschild Prifund Alpha Volatility Cl. B (EUR),0.009478622177521975,False,0.8827303939939607,True
+Edmond de Rothschild Prifund Alpha Volatility Cl. B (USD),0.005452222674211396,False,0.875093178133391,True
+EnTrustPermal Absolute Return Fund USD B,0.33752131785030803,True,,False
+EnTrustPermal Fixed Income Holdings N.V. USD A,0.3851804347897061,True,,False
+EnTrustPermal Investment Holdings N.V. EUR A,0.4086431341364133,True,,False
+EnTrustPermal Investment Holdings N.V. USD A,0.3754650767885893,True,,False
+EnTrustPermal Japan Holdings N.V. USD A,0.36225128740634394,True,,False
+EnTrustPermal Macro Holdings Ltd. EUR A,0.8840247558422852,True,,False
+EnTrustPermal Macro Holdings Ltd. USD A,0.7542143088489283,True,,False
+European Capital Holdings,0.029942996695554183,False,0.6735820973875872,True
+"European Selection Holdings S.A., SICAV-FIAR",0.969691945282811,True,,False
+GAM Composite AR CHF - Open,0.12058613643881426,True,,False
+GAM Composite AR EUR - Open,0.11353050195610102,True,,False
+GAM Composite AR GBP - Open,0.054492096768253714,True,,False
+GAM Diversity CHF Open,0.03739070355468382,False,0.7863847234013136,True
+GAM Diversity EUR Open,0.03866197966643601,False,0.7929225203093191,True
+GAM Diversity GBP Open,0.01673282971795699,False,0.7705641958850854,True
+GAM Diversity SGD Open,0.04019306292292477,False,0.79488465050246,True
+GAM Diversity USD Open,0.034561863350459014,False,0.8026058029772907,True
+GAM Trading II - CHF Open,0.7068290477431864,True,,False
+GAMAG Black & White Certificate,0.09043540278457364,True,,False
+Gems Low Volatility Portfolio CHF,0.6587107781150066,True,,False
+Gems Low Volatility Portfolio EUR,0.9657324155009739,True,,False
+Gems Low Volatility Portfolio GBP,0.9508072759236386,True,,False
+Gems Low Volatility Portfolio USD (Regular),0.8970879259915744,True,,False
+Gems Recovery Portfolio EUR,0.11125313130988454,True,,False
+Gems Recovery Portfolio USD,0.12883510964003025,True,,False
+Hatteras Core Alternatives Fund L.P.,0.17751087147606734,True,,False
+Hatteras Core Alternatives Institutional Fund L.P.,0.13683423313528767,True,,False
+Hatteras Core Alternatives TEI Fund L.P.,0.16118525132298006,True,,False
+Hatteras Core Alternatives TEI Institutional Fund L.P.,0.19340323708440385,True,,False
+Haussmann Class A USD,0.15855177827087952,True,,False
+Hurdle EURO Feeder,0.04025256947904812,False,0.7620142769514023,True
+Hurdle Fund,0.05003646920213023,True,,False
+Hurdle GBP Feeder,0.06015392792900256,True,,False
+"ICMC Strategic Asset Fund, L.P.",0.045238076592055455,False,0.7773876147512133,True
+"IL Hedge Investments, LLC",0.8531695006678433,True,,False
+J.P. Morgan Multi-Strategy Fund II Ltd - Series A (USD),0.05563721973093414,True,,False
+J.P. Morgan Multi-Strategy Fund II Ltd - Series B (GBP),0.057947965418410144,True,,False
+J.P. Morgan Multi-Strategy Fund II Ltd - Series B (USD),0.05996345708071066,True,,False
+J.P. Morgan Multi-Strategy Fund II Ltd - Series CA (GBP),0.0592383696027514,True,,False
+J.P. Morgan Multi-Strategy Fund II Ltd - Series CA (JPY),0.053667782069169626,True,,False
+J.P. Morgan Multi-Strategy Fund II Ltd - Series CN (NZD),0.06379904789668397,True,,False
+"Lighthouse Credit Opportunities Fund, LP Class B",0.9990806982935537,True,,False
+"Lighthouse Credit Opportunities Fund, Ltd. Class B",0.5466710024294322,True,,False
+Lighthouse Diversified Fund Limited,0.03926262321657058,False,0.7750985243521292,True
+"Lighthouse Diversified Fund, L.P.",0.13289396340971063,True,,False
+Lighthouse Global Long/Short Fund L.P,0.13029092481405952,True,,False
+Lighthouse Global Long/Short Fund Ltd.,0.12920679065959476,True,,False
+Lighthouse Multi-Strategy Fund LP Series C,0.003233463006085282,False,0.8286997584565582,True
+Lighthouse Multi-Strategy Fund Ltd Class C,0.0027373101683147764,False,0.8125877946817329,True
+Lighthouse V Fund Limited (Class A),0.08399743486803095,True,,False
+Master Capital Fund Limited,0.1223526127660163,True,,False
+"Masters Research Partners, L.P.",0.8880328299207715,True,,False
+MB Dislocation Opportunity Fund,0.0003347834970459738,False,1.0795937412648362,True
+Optima Fund L.P.,0.23931228886281494,True,,False
+Optima Fund Limited Class A,0.3762115140744029,True,,False
+Optima Multi-Sector Fund L.P.,0.07830506609388352,True,,False
+Optima Partners Focus Fund (A),0.06397039640648608,True,,False
+Optima Partners Focus Fund LLC (A),0.11299012956451397,True,,False
+Optima Partners Global Fund LLC,0.47329231271035777,True,,False
+Optima Partners Global Fund Ltd.,0.6102678074024132,True,,False
+Opus Diversified Fund LLC,0.20069022606724313,True,,False
+"Oxbridge Partners, L.P.-Series A",0.9308630602850206,True,,False
+P & A  Diversified Managers Fund L.P.,0.6111150557446914,True,,False
+"P & A Balanced Fund, L.P.",0.7497191262751308,True,,False
+P & A Multi Sector Fund L.P.,0.826416871027499,True,,False
+"P & A Multi-Sector Fund II, L.P.",0.8457504390268964,True,,False
+"P & A Select Strategy Fund, L.P.",0.8077534021236406,True,,False
+Pine Grove Institutional Partners L.P. - Class C,0.6574887215091492,True,,False
+Pine Grove Offshore Fund Ltd. Class C Shares,0.5399193725866009,True,,False
+"Pine Grove Partners, L.P. - Class C",0.4986615836219638,True,,False
+"Pinnacle Natural Resources, L.P.",0.9970017437076014,True,,False
+"Pinnacle Opportunity, L.P.",0.390748032532671,True,,False
+R Opal Europe Equity C  EUR,0.7408942560993601,True,,False
+R Opal Global Equity Class C EUR,0.21808455045201156,True,,False
+R Opal Global Equity Class F EUR,0.20082142216438442,True,,False
+Signet Global Multi Strategy Fund Class GBP,0.6627492004292093,True,,False
+Silvercrest Emerging Markets Fund,0.27873378164152646,True,,False
+Silvercrest Hedged Equity Fund,0.6148124784903424,True,,False
+TAS Fixed Income Arbitrage - Class H (USD),0.04925151149776144,False,0.7303203773462127,True
+TAS Global Macro - Class A (USD),0.9735128183337337,True,,False
+TAS Global Macro - Class B (EUR),0.8789546156883407,True,,False
+TAS Global Macro - Class G (EUR),0.8727664874945239,True,,False
+TAS Global Macro - Class H (USD),0.9679038613298782,True,,False
+Black Ant Value Fund Limited Class C,0.0012624186468549417,False,0.8978308038903146,True
+Black Diamond Arbitrage Ltd.,0.653151165718898,True,,False
+"Black Diamond Arbitrage Partners, L.P. (Carlson)",0.46462442156173034,True,,False
+Black Diamond Ltd.,0.07680620374762748,True,,False
+"Black Diamond Partners, L.P.",0.08160416559040393,True,,False
+Black Diamond Relative Value Ltd. (Carlson),0.2829189079450467,True,,False
+"Black Diamond Relative Value Partners, L.P. (Carlson)",0.3039869447876995,True,,False
+Candriam Bonds Credit Opportunities C-EUR,0.0007237395524727104,False,0.7111745131311262,True
+Candriam Bonds Credit Opportunities I-EUR,0.0010691572723795647,False,0.6988573824471109,True
+Candriam Bonds Euro High Yield (C),0.0020224286242420376,False,0.7626371426952105,True
+Candriam Bonds Euro High Yield (I),0.002759143462535574,False,0.7583265044323784,True
+Candriam Bonds Euro High Yield (N),0.0020147193319779485,False,0.7626019323444496,True
+Candriam Bonds Global High Yield (C),0.07663613801054296,True,,False
+Candriam Bonds Global High Yield (I),0.10631677621506867,True,,False
+Candriam Bonds Global High Yield (N),0.07847627002874989,True,,False
+"Compass Technology Partners II, L.P.",0.14970031916210547,True,,False
+Deutsche Invest I Africa FC,0.14168063085564045,True,,False
+Deutsche Invest I Africa GBP RD,0.27266225849342135,True,,False
+Deutsche Invest I Africa LC,0.13540158278999592,True,,False
+Deutsche Invest I Africa LD,0.12898078391179826,True,,False
+Deutsche Invest I Africa NC,0.1412095856777099,True,,False
+Deutsche Invest I Asian Small/Mid Cap FC,0.5098708315305318,True,,False
+Deutsche Invest I Asian Small/Mid Cap LC,0.5090864398873942,True,,False
+Deutsche Invest I Asian Small/Mid Cap LD,0.5137817781771031,True,,False
+Deutsche Invest I Asian Small/Mid Cap LS,0.48721843614569893,True,,False
+Deutsche Invest I Asian Small/Mid Cap NC,0.46655436493591906,True,,False
+Deutsche Invest I Asian Small/Mid Cap USD FC,0.17596659783502802,True,,False
+Deutsche Invest I Asian Small/Mid Cap USD LC,0.18062458975212273,True,,False
+DWS Euro-Bonds (Long),0.19276799730799477,True,,False
+DWS Euro-Bonds (Medium),0.028855197008424618,False,0.8145362064038139,True
+DWS Eurorenta,0.3850084728480694,True,,False
+DWS Global Agribusiness A2 SGD,0.17234777674046256,True,,False
+DWS Global Agribusiness A2 USD,0.04888526126071627,False,0.8154088768267779,True
+DWS Global Agribusiness E2,0.049054936820563146,False,0.8154291577191166,True
+DWS Global Agribusiness FC,0.8118676140897882,True,,False
+DWS Global Agribusiness LC,0.8055983999543018,True,,False
+DWS Global Value LD,0.6140650368724647,True,,False
+East Capital (Lux) Emerging Asia Fund Class P EUR,0.7673159885877332,True,,False
+East Capital (LUX) Russian Fund - Class A EUR,0.9791485437207261,True,,False
+East Capital (LUX) Russian Fund - Class A SEK,0.9222044004552747,True,,False
+East Capital (LUX) Russian Fund - Class A USD,0.4621736125618725,True,,False
+East Capital (LUX) Russian Fund - Class C EUR,0.876647879783191,True,,False
+East Capital (LUX) Russian Fund - Class C USD,0.3723847142533684,True,,False
+Falcon Point Long/Short Fund,0.05630534112374613,True,,False
+Falcon Point Long/Short Qualified Fund,0.05859161122199594,True,,False
+Falcon Point Long/Short Tax Exempt Fund,0.0477079801994341,False,0.6621537289915337,True
+Falcon Point Small Cap Growth Strategy,0.05696030438238661,True,,False
+G10 - Rosseau Special Situations Fund,0.19133591042250764,True,,False
+"G10 - Rosseau Special Situations Fund (US), L.P.",0.18813234154098937,True,,False
+Gabelli Associates Fund II LP,0.022347505944692272,False,0.693539328107497,True
+Gabelli Associates Fund LP,0.05418042455283524,True,,False
+GAM Star Asia Pacific Equity CHF (Acc),0.8080844707017593,True,,False
+GAM Star Asia Pacific Equity EUR (Acc),0.8885351148756213,True,,False
+GAM Star Asia Pacific Equity GBP (Acc),0.22305469823696558,True,,False
+"Millennium International, Ltd.",0.3031436112110152,True,,False
+Millennium USA LP,0.3084620769647122,True,,False
+"Millrace Fund, L.P.",0.035058513698310444,False,0.8600463197769922,True
+OC Dynamic Fund,0.011130961425265153,False,0.7343701856349625,True
+OC Micro-Cap Fund,0.030343083728255428,False,0.7036689410959122,True
+OC Premium Small Companies Fund,0.015985081346508653,False,0.7115445288943779,True
+OCCO Eastern European Fund (Ex -Ollo E.Euro Opportunities Fund),0.8668880180467883,True,,False
+"Ocean Park Investors, L.P.",0.2886370028371913,True,,False
+"Ocean Partners, LLC",0.02522281797514619,False,0.7405737135892985,True
+Odey European Inc. EURO,0.06938328085241315,True,,False
+Odey European Inc. GBP Class A,0.06411824877688935,True,,False
+Odey European Inc. GBP Class B,0.06419591135128995,True,,False
+Odey European Inc. USD,0.06716223781155954,True,,False
+"Odin Raven Fund, L.P.",0.29128381173090784,True,,False
+Pictet Clean Energy I USD,0.1859345158817168,True,,False
+Pictet Clean Energy P dy USD,0.18107424501769231,True,,False
+Pictet Clean Energy P EUR,0.2659831436268455,True,,False
+Pictet Clean Energy P USD,0.1803267996128311,True,,False
+Pictet Clean Energy Pdy GBP,0.5841681367255678,True,,False
+Pictet Clean Energy R EUR,0.26473611355594145,True,,False
+Pictet Clean Energy R USD,0.17651302794154408,True,,False
+Pictet Health I EUR,0.9712349999612174,True,,False
+Pictet Health I USD,2.647551181096134e-06,False,0.977183054632308,True
+Pictet Health P dy GBP,0.09014153117975889,True,,False
+Pictet Health P EUR,0.9731017460978749,True,,False
+Pictet Timber I EUR,0.5068559447508092,True,,False
+Pictet Timber I USD,0.013262546063369839,False,0.741130578382207,True
+Pictet Timber P dy GBP,0.06999948121635002,True,,False
+Pictet Timber P dy USD,0.013684869145897234,False,0.7415130928848496,True
+Pictet Timber P USD,0.013682267815281321,False,0.7415194665826894,True
+Pictet Timber R USD,0.013654862673177831,False,0.7414832918114287,True
+Polar Long/Short Fund,0.00037721115247236423,False,0.7024544564652018,True
+Polar Multi-Strategy Fund,0.005379813524421546,False,0.7364538292834628,True
+PSAM Rebound Fund Ltd.,0.8110270953413673,True,,False
+PSAM Rebound Partners L.P.,0.8023365490525305,True,,False
+PSAM WorldArb Fund Limited,0.5025587277382699,True,,False
+"PSAM WorldArb Partners, L.P.",0.495775626148788,True,,False
+PSCO Partners L.P. Fund,0.23973366282281278,True,,False
+RAM (Lux) Systematic Funds - North American Equities USD B,0.07189275173821111,True,,False
+RAM (Lux) Systematic Funds European Equities EUR Class (B),0.37794695984492455,True,,False
+Real Return Asian Fund A GBP,0.007150939472000837,False,0.6913631241368405,True
+Real Return Asian Fund B USD,0.007810014396327511,False,0.6743215863242886,True
+Real Return Asian Fund C EUR,0.007958417555228735,False,0.7032545149827296,True
+Reichmuth Alpin CHF,0.07630102821625544,True,,False
+Reichmuth Alpin Classic Share Class P,0.07394767510585401,True,,False
+Reichmuth Bottom Fishing EUR,0.6845151085693482,True,,False
+Reichmuth Hochalpin CHF,0.661880018913614,True,,False
+Reichmuth Pilatus CHF,0.9364483910475183,True,,False
+Reindeer Trek L.P,0.0740694122991638,True,,False
+"Sandfly Partners, Ltd. ",0.26877319200612737,True,,False
+Sandler Associates (Class A-U),0.15345160351580084,True,,False
+Sandler Offshore Fund Class (A-U),0.179982381630389,True,,False
+"Sandler Plus Domestic Fund, L.P.",0.16223572026366956,True,,False
+"Sandler Plus Offshore Fund, Ltd.",0.16184558855466138,True,,False
+Schroder ISF Asian Opportunities A Dis USD,0.2683986192197795,True,,False
+Schroder ISF Asian Opportunities C Acc EUR,0.9713512921239754,True,,False
+Schroder ISF Asian Smaller Companies A Acc USD,0.0028148899041813232,False,0.910555083075256,True
+Schroder ISF Asian Smaller Companies C Acc USD,0.0028211204848341983,False,0.9101210468719596,True
+Schroder ISF Asian Smaller Companies I Acc USD,0.002819482621402269,False,0.910263157626242,True
+Schroder ISF Asian Total Return C Acc EUR,0.08269007827393175,True,,False
+Schroder ISF Asian Total Return C Acc USD,0.11728397049874408,True,,False
+Schroder ISF Asian Total Return C Dis GBP,0.7214222577383718,True,,False
+Schroder ISF Asian Total Return I Acc USD,0.113973564994887,True,,False
+Schroder ISF Emerging Markets C Dis USD,0.19687456468206482,True,,False
+Schroder ISF Emerging Markets Debt Absolute Return A Acc USD,0.005616330948563956,False,0.655001292926342,True
+Sierra Europe L.P. (Without New Issues),0.3910426392485734,True,,False
+Sierra Europe Offshore Euro Class D,0.5101772488242392,True,,False
+Sierra Europe Offshore USD Class C,0.4670293315191132,True,,False
+SM Investors II LP,0.17836168680327227,True,,False
+"SM Investors Offshore, Ltd",0.13694987050082055,True,,False
+"SM Investors, L.P.",0.18190411210237128,True,,False
+"SM Merger/Arbitrage, L.P.",0.3144130421639888,True,,False
+Southpaw Credit Opportunity Fund (FTE) Ltd.,0.5377012349087664,True,,False
+Sparta Ciclico Fundo De Investimento Multimercado,0.4029045353447043,True,,False
+"Spectrum Master Fund, Ltd. ",0.12213006273951779,True,,False
+Sphera Fund,0.03721845342214158,False,0.7764969521817962,True
+Sphera Global Healthcare Fund Class A,0.652789765772618,True,,False
+Spinnaker Global Emerging Markets Fund Ltd. Class K,0.3316875184037672,True,,False
+Spinnaker Global Opportunity Fund Ltd. Class L,0.7902125462277451,True,,False
+Spitfire Fund LP,0.8138411700343309,True,,False
+SSI Hedged Convertible Income Strategy,0.8983680036738888,True,,False
+"SSI Hedged Convertible Opportunity Fund, LP",0.6733572453308161,True,,False
+Stonepine Capital LP,0.8925915538629098,True,,False
+Stornoway Recovery Fund LP,0.05266606202869203,True,,False
+"Strategic Balance Partners, LP",0.7880041420289222,True,,False
+Strategic China Panda Fund,0.2603629549825204,True,,False
+"Strategos Fund, L.P.",0.5771337867066987,True,,False
+"Strategos Offshore, Ltd.",0.5988944097368563,True,,False
+Strateji Long Only Equity Fund,0.012496873215182797,False,0.7625924505473328,True
+Strateji Long/Short Equity Fund,0.7740525017307461,True,,False
+Stratus Feeder LLC - Series 1 (USD Standard Leverage),0.06737250708103246,True,,False
+Stratus Feeder Ltd - Class B Shares (USD Standard Leverage),0.08030131218484513,True,,False
+Stratus Fund Ltd - Class B Shares (USD Standard Leverage),0.09268359867089589,True,,False
+Stratus Fund Ltd - Class C Shares (USD 1.5x Leverage),0.38759872617746305,True,,False
+Stratus Fund Ltd - Class D Shares (Euro Standard Leverage),0.08361391980253771,True,,False
+Stratus Fund Ltd. - Class E Shares (Euro 1.5X Leverage),0.00032956300842890943,False,0.8232724322925812,True
+STS Master Fund Ltd. - Class I,0.010101564590773352,False,0.8770041191955514,True
+Sturgeon Central Asia Balanced Fund,0.056092993629495,True,,False
+Superfund Blue SPC Class A (EUR),0.11280563843865078,True,,False
+Superfund Blue SPC Class A (Gold EUR),0.15507237833217624,True,,False
+SVM Highlander Fund Plc EUR,0.8781440005333142,True,,False
+Swan Defined Risk Strategy SMA,0.19216191510152178,True,,False
+Swift Run Capital LP,0.5081449675640268,True,,False
+SWMC Small Cap European Fund,0.5236888518404426,True,,False
+Sycomore L/S Market Neutral Class I EUR,0.9045925163290501,True,,False
+Sycomore L/S Opportunities Class I EUR,0.03817393873218234,False,0.6643148391890884,True
+"Symphony Bravura 99 Fund, L.P.",0.1801568208758702,True,,False
+"Symphony Rhapsody Fund, L.P.",0.026659361008108794,False,0.7163401130715878,True
+SYW L.P.,0.18998682621400967,True,,False
+Taiga Fund A EUR,0.1155568942736089,True,,False
+Tallgrass Capital L.P. (D),0.1503256842977785,True,,False
+"Tamarack Global Healthcare Fund, LP",0.11950551818465074,True,,False
+Tantallon (Non-US Feeder) Fund,0.25593305956245177,True,,False
+TCM Vietnam High Dividend Equity Fund,0.02458578760005973,False,0.6573484614578273,True
+"TCW Sepulveda Long/Short Equity Fund I, LP",0.0028053850536797053,False,0.6516850866068479,True
+"TCW Sepulveda Long/Short Equity Fund II, LP",0.00309212831872928,False,0.648414656336257,True
+Teak Hill Fund ,0.4313073563227252,True,,False
+"Telemetry Fund I, L.P.",2.3144666891863256e-05,False,0.7948379863468091,True
+"Telligent Greater China Master Fund, LP",0.4181169995175903,True,,False
+Thai Focused Equity Fund Class A,0.059770659022101644,True,,False
+Thai Focused Equity Fund Class C,0.0598792004261021,True,,False
+Thai Focused Equity Fund Class D,0.059911720910649745,True,,False
+The Cushing Fund,0.00014656775816188178,False,0.8697050718345274,True
+The Elbrus Fund Limited Class A USD,0.14660952724023885,True,,False
+The Prospect Fund L.P.,0.1158830083898745,True,,False
+"The Rama Fund, LLC",0.02373037574122138,False,0.5621306899927873,True
+"The Red Oak Fund, L.P.",0.0007910918424166342,False,0.6119104074945074,True
+"The Red Oak Long Fund, L.P.",0.000515266399695733,False,0.667036513215214,True
+Third Friday Total Return Fund,0.42179290690795335,True,,False
+Tiburon Taipan Fund A USD,0.3072452017220521,True,,False
+TIG Arbitrage Associates L.P./Ltd.,0.911790622741928,True,,False
+"Tonga Partners, L.P.",0.4005239867232897,True,,False
+Tordesillas L/S Iberian Equities,0.07339786420279261,True,,False
+Tosca Master,0.4620452506663455,True,,False
+Tosca Opportunity,0.0009858492739864694,False,0.776856806285397,True
+Touchstone Dynamic Equity Fund A,0.031563555268734195,False,0.6719069683294473,True
+TradeLink Master Fund LP,0.03149902474465769,False,0.7122021619622532,True
+"TRF Master Fund (Cayman), L.P.",0.43540637102887536,True,,False
+"Trilogy Financial Partners International, Ltd.",0.51987412753652,True,,False
+Trilogy Financial Partners LP,0.39047424787384355,True,,False
+"Tristan Offshore Fund, Ltd",0.17401793639441868,True,,False
+"Tristan Partners, LP",0.8760520056138267,True,,False
+TT International Fund Ltd Class A,0.7822719103149847,True,,False
+TT International Mid-Cap Europe Fund-EUR Class A,0.4030478517411965,True,,False
+TT International Mid-Cap Europe Fund-USD Class B,0.38367759888567343,True,,False
+"Twin Offshore, Ltd.",0.009834035441170896,False,1.199649326204216,True
+"Twin Securities, L.P.",0.009824353097421504,False,1.1977870984112244,True
+UBS (Lux) Equity Fund - Australia (AUD) P-acc,0.3790891064133316,True,,False
+UBS (Lux) Equity Fund - Canada (CAD) P-acc,0.22101135894286136,True,,False
+UBS (Lux) Equity SICAV - Brazil (USD) P-acc,0.1055021198290141,True,,False
+UBS (Lux) Equity SICAV - Greater China (USD) P-acc,0.8202954040169635,True,,False
+UFG Russia Select Fund,0.3011950597635865,True,,False
+UG Greater China Multi-Strategy Fund,3.465006030720241e-06,False,0.6463692072258262,True
+UG Hidden Dragon Special Opportunity Fund,0.00012313605001026541,False,0.6845679875847395,True
+UMJ Kotoshiro Fund JPY,0.24930989058631195,True,,False
+UMJ Kotoshiro Fund USD,0.2874428077084643,True,,False
+V2M Life Sciences LP,0.2796322632072729,True,,False
+Valley Forge Capital LP,0.7017449138104865,True,,False
+Value Partners Classic Fund Class A,0.743877042096316,True,,False
+Value Partners High-Dividend Stocks Fund,0.9644926024985034,True,,False
+Value Partners Taiwan Fund,0.10207206697928807,True,,False
+ValueWorks Limited Partnership,0.7467544464252234,True,,False
+ValueWorks Long-Biased Strategy,0.27473764863287864,True,,False
+Van Hulzen Covered Call Strategy (SMA),0.06679918785088013,True,,False
+Velocity American Energy Fund L.P.,0.0021225654013886297,False,0.744715823216673,True
+"Velocity American Energy Master Fund I, LP",0.01698315456959589,False,0.5879959293664188,True
+Velocity American Energy Offshore Fund,0.006397936653678438,False,0.6876614198601384,True
+Venator Founders Fund Class A,0.27826198231526494,True,,False
+Venator Income Fund Class F,0.7133993185558876,True,,False
+Venor Capital Offshore Ltd.,0.10417462180925047,True,,False
+Venor Capital Partners LP,0.11825051651031616,True,,False
+"Ventura Capital Partners, LLC",0.6104706781095158,True,,False
+"Verde Alpha Fund, LTD - Alpha I Class",0.23708213240415205,True,,False
+"Verde Alpha Fund, LTD - Alpha II Class",0.2339480607323807,True,,False
+"Verition Multi-Strategy Fund, Participating Modified Interests",0.0408980819839759,False,0.7393687035282828,True
+Vertex Fund Class A,0.044536636348394144,False,0.7374703563996863,True
+Vertex Fund Class B,0.05767078114588656,True,,False
+Vertex Fund Class F,0.04938017482206228,False,0.734952807953991,True
+Vertex Managed Value Portfolio Class A,0.027735385752678327,False,0.7256580291771028,True
+Victoria Capital Dynamic European Fund Limited EUR,0.8927707441749325,True,,False
+Victoria Capital Dynamic European Fund Limited GBP,0.9652267495084531,True,,False
+Victoria Capital Dynamic European Fund Limited USD,0.7058861119485643,True,,False
+Victory Arcadia Fund Class A USD,0.4890043950158527,True,,False
+Victory Arcadia Fund Class B GBP,0.6140806673490243,True,,False
+Victory Arcadia Fund Class C EUR,0.6470570923618963,True,,False
+Visio I Fund,0.0523866198923743,True,,False
+Visio IV Fund,0.023765016017856435,False,0.6852417617314372,True
+Vision Opportunity Fund LP,0.0017815210039519777,False,0.7235704252981142,True
+"VN Capital Fund I, L.P.",0.38882828057923047,True,,False
+Voya CBRE Long/Short Fund Class I,0.6460426384153133,True,,False
+VT De Lisle America Fund,0.14685067960370468,True,,False
+"W Financial Fund, L.P. Class B",0.14926743738631074,True,,False
+Wada Capital Japan Trust,0.30209505859556357,True,,False
+"WAF Master Fund, L.P.",0.11843787974607459,True,,False
+"WAM Global Water Equity, LP",0.034228743757981434,False,0.7357288958203642,True
+"Waterfall Eden Fund, L.P.",0.11897390184769446,True,,False
+"Waterfall Eden Fund, Ltd.",0.1663648481365005,True,,False
+"Waterfall Victoria Fund, L.P.",0.05331029891380474,True,,False
+"Waterfall Victoria Fund, Ltd",0.09203988361154102,True,,False
+WaveStone Capital Absolute Return Fund,0.2856200587252804,True,,False
+"Waycross Long/Short Equity Fund, L.P.",0.0760028271028838,True,,False
+WCM Merger Fund Investor Class,0.19655652469444868,True,,False
+WCM Merger Fund Ltd.,0.017800792103748478,False,0.8004994315969133,True
+"Weaver Arbitrage Partners, L.P.",0.6590803401703244,True,,False
+Weirton Fund LLC,0.06466240495403548,True,,False
+Weiss Multi-Strategy Partners LLC,0.38556071467132547,True,,False
+"Welch Entrepreneurial Fund,  L.P.",0.362440957040013,True,,False
+"Wexford Catalyst Fund, L.P. Class A",0.14503152780732226,True,,False
+"Wexford Credit Opportunities Fund, LP Class A",0.053426866370341476,True,,False
+Wexford Offshore Catalyst Fund Limited Class A,0.0717815196126363,True,,False
+Wexford Offshore Spectrum Fund Class A/C,0.5352729231727629,True,,False
+"Wexford Spectrum Fund, L.P. Class A/C",0.7463426039079899,True,,False
+"WHB Energy Partners, L.P.",0.002188156629296077,False,0.8200008254180077,True
+"Whitebox Credit Partners, L.P.",0.9278529027845552,True,,False
+"Whitebox Multi-Strategy Partners, L.P.",0.09711536991748733,True,,False
+"Whitebox Relative Value Partners, L.P.",0.2641226516935944,True,,False
+"Windmill Partners, L.P.",0.011285919194931918,False,0.7733859725925006,True
+Worch Capital Partners LP,0.6940996544645959,True,,False
+World Equity SMA,0.044652890168748044,False,0.7464926369607823,True
+Worldwide Opportunity Fund (Cayman) Ltd. Class A,0.3013623679037853,True,,False
+WPS Capital Fund LLC,0.9115583534062093,True,,False
+"Wynnefield Partners Small Cap Value, LP",0.9777462484394313,True,,False
+"Wynnefield Partners Small Cap Value, LP I",0.992497072969764,True,,False
+"Wynnefield Small Cap Value Offshore Fund, Ltd.",0.6076788299068043,True,,False
+X-Chequer SNN Market Neutral Qualified Hedge Fund,0.00361378815355388,False,0.9013498179066334,True
+"Yakira Partners, L.P.",0.2728334289492612,True,,False
+Yangtze Fund II,0.3642200510464443,True,,False
+Yellow Cypress Opportunities SP,0.0035781930160687413,False,0.763196235189414,True
+Yeoman 3-Rights Value Asia Fund,0.15847750709892672,True,,False
+Z Europe Fund EURO LTD.,0.032295177117172814,False,0.7552484678931386,True
+Z Europe Fund USD LTD.,0.07300405305635717,True,,False
+"ZAIS Opportunity Domestic Feeder Fund, LP Series A ",0.9851730959693196,True,,False
+"ZAIS Opportunity Fund, Ltd Series A",0.9562078060272347,True,,False
